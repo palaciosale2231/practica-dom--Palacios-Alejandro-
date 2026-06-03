@@ -1,0 +1,13 @@
+body {
+     background-image: url(img/img\ tlp\ 1.webp);
+    background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        /* Esto lo deja fijo al hacer scroll */
+        background-position: center center;
+        min-height: 100vh;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        margin: 0;
+        padding: 0;
+}
